@@ -20,5 +20,5 @@ from . import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("", views.get_qr)
+    path("", views.get_qr, name="get_qr")
 ]
