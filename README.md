@@ -17,7 +17,7 @@ Just enter your **restaurant name** and paste a **menu image link** (Google Driv
 If you already have Docker installed, you can run the project with **one line**:  
 
 ```bash
-docker run -p 8000:8000 your-dockerhub-username/django-qr-app:latest
+docker run -p 8000:8000 ash1q/django-qr-app:latest
 ```
 
 Now open 👉 [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.  
@@ -76,4 +76,4 @@ Now open 👉 [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 ---
 
 ## 👨‍💻 Author
-Made with ❤️ by [Your Name](https://www.linkedin.com/in/your-linkedin-username)  
+Made with ❤️ by [HM Ashiqur Rahman](https://www.linkedin.com/in/hmashiqurrahman/)  
